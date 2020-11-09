@@ -5,7 +5,7 @@ Repo of all models I have created on my journey of learning machine learning and
 
  Model predicts the likeliness of breast cancer based on the key feauture of being benign or malignant.
 
-## Breast cancer wisconsin (diagnostic) dataset**
+## Breast cancer wisconsin (diagnostic)
 
 Data Set Characteristics:
 
